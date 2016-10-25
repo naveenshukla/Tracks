@@ -6,9 +6,6 @@ import android.widget.TextView;
 
 import DBManager.MyDatabase;
 
-/**
- * Created by Satyam Poddar on 02-Apr-16.
- */
 public class SecondActivity extends AppCompatActivity {
     private TextView dname;
     @Override
